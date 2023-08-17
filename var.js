@@ -1,3 +1,19 @@
+// var x;
+// x =10
+// console.log(x)
+// let x;
+// x =20;
+// console.log(x);
+// const x;
+// x =10;
+// console.log(x);
+
+// let x;
+// x =10;
+// let x;
+// x =20;
+// console.log(x)
+
 
 // var myname ='selja';
 // function whatisyourname(){
